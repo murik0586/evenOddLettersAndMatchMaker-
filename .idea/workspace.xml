@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6fd7d6a-9405-40f7-a3ca-231380d584d3" name="Changes" comment="Task 1 and Task2">
+    <list default="true" id="d6fd7d6a-9405-40f7-a3ca-231380d584d3" name="Changes" comment="Lesson 3 - task key">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TaskChar.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Task2.executor": "Run",
+    "Python.TaskChar.executor": "Run",
+    "Python.lab3Recurs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\79776\PycharmProjects\pythonChars" />
@@ -68,11 +69,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728332680158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson 3 - task key">
+      <option name="closed" value="true" />
+      <created>1728935465560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728935465560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1 and Task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 and Task2" />
+    <MESSAGE value="Lesson 3 - task key" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3 - task key" />
   </component>
 </project>
